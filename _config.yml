@@ -1,7 +1,8 @@
 # Site settings
 title: DL Blog
 SEOTitle: 达龙的博客 | DL Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk
+
 email: davidleegeek@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 达龙的博客, davidleegeek, 李达龙, iOS, Apple, iPhone"
@@ -12,7 +13,7 @@ github_repo: "https://github.com/davidleegeek/davidleegeek.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/dl-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
